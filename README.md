@@ -213,7 +213,7 @@ Gooble Colab
 
 -------------------------------------------------------------------------------------
 
-https://www.chatpdf.com/
-[Json Path](https://jsonpath.com/)
-https://microservices.io/patterns/index.html
-[12Factors](https://12factor.net/pt_br/)
+- https://www.chatpdf.com/
+- [Json Path](https://jsonpath.com/)
+- https://microservices.io/patterns/index.html
+- [12Factors](https://12factor.net/pt_br/)
