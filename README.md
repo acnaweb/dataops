@@ -1,20 +1,41 @@
 # dataops
 Study DataOps and related concepts
-https://www.chatpdf.com/
 
-Json
-Json Path
+#### Antonio Carlos de Lima Junior (AC)
 
-https://microservices.io/patterns/index.html
+https://www.linkedin.com/in/acnaweb/
+https://github.com/acnaweb
 
-12Factors
+-------------------------------------------------------------------------------------
+- Aula 1
 
+https://ai-infrastructure.org/ai-infrastructure-landscape/
+Diagram - https://ai-infrastructure.org/why-we-started-the-aiia-and-what-it-means-for-the-rapid-evolution-of-the-canonical-stack-of-machine-learning/
+Landscape ML/Data/AI - https://mad.firstmark.com/
+Landscape ML/Data/AI - https://landscape.lfai.foundation/
+Data Lineage - https://www.octopai.com/what-is-data-lineage/
+Scaffold de Projetos - https://github.com/cookiecutter/cookiecutter
+Crommon Crawl - https://commoncrawl.org
+OpenAI - https://openai.com/
+
+Curso Gratuito
+MLOps - https://datatalks.club/
+
+Curso Pago
+https://www.eia.ai/
+
+
+Documentário: Som na faixa (Spotify)
+https://www.netflix.com/br/title/81186296
+
+
+Glossário pelo Gartner
+https://www.gartner.com/en/glossary/all-terms
 
 -------------------------------------------------------------------------------------
 * AI Infrastructure
 
 https://ai-infrastructure.org/
-
 
 -------------------------------------------------------------------------------------
 * NoSQL
@@ -184,3 +205,9 @@ Gooble Colab
 - Data Science
 - Model Iris
 
+-------------------------------------------------------------------------------------
+
+https://www.chatpdf.com/
+[Json Path](https://jsonpath.com/)
+https://microservices.io/patterns/index.html
+[12Factors](https://12factor.net/pt_br/)
