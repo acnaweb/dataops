@@ -75,7 +75,7 @@ Data Warehouse: Star Schema e OBT (One Big Table)
 - https://www.ipsense.com.br/wp-content/uploads/2022/07/Modelo-Dimensional-Star-Schema-2.png
 - https://www.ipsense.com.br/amazon-web-services/o-modelo-dimensional-star-schema-ainda-e-a-melhor-opcao-para-cloud-data-warehouse/
 
-* Data Lake
+Data Lake
 
 Data Lakes: o que são eles e quais seus níveis de maturidade
 
