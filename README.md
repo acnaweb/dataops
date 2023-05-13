@@ -3,8 +3,8 @@ Study DataOps and related concepts
 
 #### Antonio Carlos de Lima Junior (AC)
 
-https://www.linkedin.com/in/acnaweb/
-https://github.com/acnaweb
+- https://www.linkedin.com/in/acnaweb/
+- https://github.com/acnaweb
 
 -------------------------------------------------------------------------------------
 - Aula 1
