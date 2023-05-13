@@ -54,9 +54,9 @@ https://www.guru99.com/nosql-tutorial.html
 DW vs OLTP
 
 OLTP (Banco de Dados Transacional) vs OLAP (Banco de Dados Analítico)
-
-https://www.ipsense.com.br/wp-content/uploads/2022/07/Modelo-Dimensional-Star-Schema-1.png
-https://blog.indicium.tech/data-warehouse-x-banco-de-dados-transacional-comum-qual-prejudica-sua-empresa/
+- https://www.dataex.com.br/oltp-e-olap/
+- https://www.ipsense.com.br/wp-content/uploads/2022/07/Modelo-Dimensional-Star-Schema-1.png
+- https://blog.indicium.tech/data-warehouse-x-banco-de-dados-transacional-comum-qual-prejudica-sua-empresa/
 
 Star Schema (Ralph Kimball)
 
