@@ -9,28 +9,26 @@ https://github.com/acnaweb
 -------------------------------------------------------------------------------------
 - Aula 1
 
-https://ai-infrastructure.org/ai-infrastructure-landscape/
-Diagram - https://ai-infrastructure.org/why-we-started-the-aiia-and-what-it-means-for-the-rapid-evolution-of-the-canonical-stack-of-machine-learning/
-Landscape ML/Data/AI - https://mad.firstmark.com/
-Landscape ML/Data/AI - https://landscape.lfai.foundation/
-Data Lineage - https://www.octopai.com/what-is-data-lineage/
-Scaffold de Projetos - https://github.com/cookiecutter/cookiecutter
-Crommon Crawl - https://commoncrawl.org
-OpenAI - https://openai.com/
+- https://ai-infrastructure.org/ai-infrastructure-landscape/
+-Diagram - https://ai-infrastructure.org/why-we-started-the-aiia-and-what-it-means-for-the-rapid-evolution-of-the-canonical-stack-of-machine-learning/
+- Landscape ML/Data/AI - https://mad.firstmark.com/
+- Landscape ML/Data/AI - https://landscape.lfai.foundation/
+- Data Lineage - https://www.octopai.com/what-is-data-lineage/
+- Scaffold de Projetos - https://github.com/cookiecutter/cookiecutter
+- Crommon Crawl - https://commoncrawl.org
+- OpenAI - https://openai.com/
 
 Curso Gratuito
-MLOps - https://datatalks.club/
+- MLOps - https://datatalks.club/
 
 Curso Pago
-https://www.eia.ai/
-
+- https://www.eia.ai/
 
 Documentário: Som na faixa (Spotify)
-https://www.netflix.com/br/title/81186296
-
+- https://www.netflix.com/br/title/81186296
 
 Glossário pelo Gartner
-https://www.gartner.com/en/glossary/all-terms
+- https://www.gartner.com/en/glossary/all-terms
 
 -------------------------------------------------------------------------------------
 * AI Infrastructure
