@@ -35,6 +35,8 @@ Glossário pelo Gartner
 - Aula 2
 
 - Markdown online - https://dillinger.io/
+- Data Mockup - https://www.mockaroo.com/
+
 
 -------------------------------------------------------------------------------------
 * AI Infrastructure
