@@ -36,7 +36,7 @@ Glossário pelo Gartner
 
 - Markdown online - https://dillinger.io/
 - Data Mockup - https://www.mockaroo.com/
-
+- Kaggle datasets
 
 -------------------------------------------------------------------------------------
 * AI Infrastructure
