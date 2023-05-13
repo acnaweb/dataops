@@ -1,4 +1,5 @@
 # dataops
+
 Study DataOps and related concepts
 
 #### Antonio Carlos de Lima Junior (AC)
@@ -6,11 +7,11 @@ Study DataOps and related concepts
 - https://www.linkedin.com/in/acnaweb/
 - https://github.com/acnaweb
 
--------------------------------------------------------------------------------------
+------
 - Aula 1
 
 - https://ai-infrastructure.org/ai-infrastructure-landscape/
--Diagram - https://ai-infrastructure.org/why-we-started-the-aiia-and-what-it-means-for-the-rapid-evolution-of-the-canonical-stack-of-machine-learning/
+- Diagram - https://ai-infrastructure.org/why-we-started-the-aiia-and-what-it-means-for-the-rapid-evolution-of-the-canonical-stack-of-machine-learning/
 - Landscape ML/Data/AI - https://mad.firstmark.com/
 - Landscape ML/Data/AI - https://landscape.lfai.foundation/
 - Data Lineage - https://www.octopai.com/what-is-data-lineage/
@@ -29,6 +30,11 @@ Documentário: Som na faixa (Spotify)
 
 Glossário pelo Gartner
 - https://www.gartner.com/en/glossary/all-terms
+
+---- 
+- Aula 2
+
+- Markdown online - https://dillinger.io/
 
 -------------------------------------------------------------------------------------
 * AI Infrastructure
