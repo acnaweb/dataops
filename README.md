@@ -145,6 +145,16 @@ Docker architecture
 
 https://docs.docker.com/assets/images/architecture.svg
 
+
+https://vsupalov.com/6-docker-basics/
+
+https://vsupalov.com/docker-arg-env-variable-guide/
+
+https://www.baeldung.com/ops/docker-guide
+
+https://www.baeldung.com/spring-boot-properties-env-variables
+
+
 Lifecycle of Docker Container
 
 https://medium.com/@BeNitinAgarwal/lifecycle-of-docker-container-d2da9f85959
