@@ -146,6 +146,9 @@ Docker architecture
 https://docs.docker.com/assets/images/architecture.svg
 
 
+https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
+
+
 https://vsupalov.com/6-docker-basics/
 
 https://vsupalov.com/docker-arg-env-variable-guide/
