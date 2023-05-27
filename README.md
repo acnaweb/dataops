@@ -217,3 +217,8 @@ Gooble Colab
 - [Json Path](https://jsonpath.com/)
 - https://microservices.io/patterns/index.html
 - [12Factors](https://12factor.net/pt_br/)
+
+
+#### Books
+
+- https://developers.redhat.com/e-books
