@@ -180,4 +180,4 @@ Com essas etapas, implementamos um pipeline de **DataOps** completo que utiliza 
 - https://datakitchen.io/the-dataops-cookbook/
 - https://medium.com/data-ops
 - https://triggo.ai/blog/o-que-e-dataops/
-- https://triggo.ai/blog/o-que-e-dataops/
+- [Continuous Data Integration and Delivery](https://medium.com/orchestras-data-release-pipeline-blog/a-new-paradigm-for-data-continuous-data-integration-and-delivery-miniseries-part-5-a3338b3ffd03)
